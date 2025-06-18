@@ -1,0 +1,11 @@
+# Dependencies
+node_modules
+
+# Prisma
+generated
+
+# Environment
+.env
+
+# Build
+build
